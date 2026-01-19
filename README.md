@@ -312,7 +312,7 @@ Utilizza la libreria [face_recognition](https://github.com/ageitgey/face_recogni
 
 **Antonio 'Visi@n' Broi**
 - 🌐 [Tsurugi Linux](https://tsurugi-linux.org)
-- 📧 antonio@tsurugi-linux.org
+- 📧 antonio@broi.it
 
 ---
 
